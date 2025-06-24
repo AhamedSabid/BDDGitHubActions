@@ -13,5 +13,5 @@ Feature: Implementing scenario outline
     And I close the browser
     Examples:
       | SearchText            |
-      | Insurity              |
-      | Experion Technologies |
+      | Google              |
+      | Microsoft |
